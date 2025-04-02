@@ -53,7 +53,7 @@
   <br/>
   <ul>
     <li>Web-based IDE with <b>Dockerized execution</b></li>
-    <li>Link: <a href="https://github.com/your-github-profile/online-ide">GitHub Repository</a></li>
+    <li>Link: <a href="https://github.com/VublleCodeHub8/Main-Progress">GitHub Repository</a></li>
   </ul>
 </details>
 
@@ -62,7 +62,7 @@
   <br/>
   <ul>
     <li>Real-time stock data visualization</li>
-    <li>Link: <a href="https://github.com/your-github-profile/stock-analysis">GitHub Repository</a></li>
+    <li>Link: <a href="https://github.com/Himanshu-Saraswat-01122004/G16-Project">GitHub Repository</a></li>
   </ul>
 </details>
 
@@ -84,7 +84,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu-Saraswat-01122004e&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu-Saraswat-01122004&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-Saraswat-01122004&theme=tokyonight" alt="GitHub Streak" height="150"/>
 </div>
 
