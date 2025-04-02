@@ -84,12 +84,12 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu-Saraswat-01122004e&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-Saraswat-01122004&theme=tokyonight" alt="GitHub Streak" height="150"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Himanshu-Saraswat-01122004&color=blue" alt="profile views" />
 </div>
 
 ---
